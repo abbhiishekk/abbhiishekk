@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**abbhiishekk/abbhiishekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there! I'm Abhishek Singh Chauhan
+  &emsp;I enjoy turning abstract ideas into tangible solutions through coding. </br>
+  &emsp;On a quest to expand my programming knowledge and skills in diverse tools and frameworks.
+ - SDE at Axis Bank.
+ - Computer Science and Engineering AIT'23.
 
-Here are some ideas to get you started:
+I'm always open to collaboration and always excited about working with other developers on meaningful projects. </br>
+**Connect w/m on **LinkedIn** [@linkedIn/Abhishek Singh](https://www.linkedin.com/in/abbhiishekk/)** 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Tech Stack
+
+- **Languages:** Java, C++, JavaScript (Node.js, React.js), Python
+- **Backend Development:** Express.js, Django
+- **Frontend Development:** HTML, CSS, Material-UI, Tailwind
+- **Database:** Firebase, MySQL
+- **Version Control:** Git, GitHub
+- **Machine Learning:** Scikit-learn, TensorFlow (beginner level)
+- **DevOps:** Docker, Kubernetes (in progress)
+
